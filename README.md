@@ -1,11 +1,3 @@
-<div id="header" align="center">
-
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" />
-</div>
-
----
-
-
 ### 👨‍💻 About Me:
 I am a Developer | Bug Bounty Hunter | Pentetration Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia 🇮🇩.
 - 👨‍🎓 I am a second-year college student pursuing a Bachelor's degree in Computer Science.
